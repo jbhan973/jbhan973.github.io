@@ -1,12 +1,12 @@
 {
   "type": "Book",
   "id": 1001,
-  "name": "체크체크 수학 1-2",
+  "name": "체크체크 수학 1-1\n개념",
   "image": "assets/images/book_cover_1000.jpeg",
   "progress": 0.9,
   "subject": "수학",
   "grade": "중1",
-  "desc": "체크체크 수학 1-1\n개념",
+  "desc": "문제 없이 개념을 단원로 모아서 볼 수 있도록 재구성하였습니다.",
   "sections": [
     {
       "type": "Sections",
