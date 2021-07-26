@@ -2,11 +2,11 @@
   "type": "Book",
   "id": 1001,
   "name": "체크체크 수학 1-2",
-  "image": "assets/images/book_cover_1001.jpeg",
+  "image": "assets/images/book_cover_1000.jpeg",
   "progress": 0.9,
   "subject": "수학",
   "grade": "중1",
-  "desc": "체크체크 수학 1-2",
+  "desc": "체크체크 수학 1-1\n개념",
   "sections": [
     {
       "type": "Sections",
