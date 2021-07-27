@@ -1,6 +1,7 @@
 {
   "type": "Book",
   "id": 1009,
+  "parentId": 1006,
   "name": "유형체크N제 3-2\n기출 문제 모음",
   "image": "assets/images/book_cover_1006.jpeg",
   "progress": 0.9,

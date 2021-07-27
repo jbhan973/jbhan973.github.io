@@ -1,6 +1,7 @@
 {
   "type": "Book",
   "id": 1003,
+  "parentId": 1002,
   "name": "유형체크N제 3-1\n개념 모음",
   "image": "assets/images/book_cover_1002.jpeg",
   "progress": 0.3,
