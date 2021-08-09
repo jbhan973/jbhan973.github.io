@@ -2,45 +2,48 @@
   "meta": {
     "book_id": 1000,
     "section_id": 1,
-    "subject_id": 1,
-    "bundle_id": 1
+    "subject_id": 1
   },
   "bundles": [
     {
-      "type": "question",
-      "number": 2,
+      "type": "bundle",
+      "id": 1,
       "title": "소수와 합성수",
       "questCount": 4,
       "elapsedTime": 600000,
       "progress": 1.0,
-      "completedCount": 0
+      "completedCount": 0,
+      "conceptId": 1
     },
     {
-      "type": "question",
-      "number": 3,
+      "type": "bundle",
+      "id": 2,
       "title": "거듭제곱",
       "questCount": 6,
       "elapsedTime": 900000,
       "progress": 0.0,
-      "completedCount": 1
+      "completedCount": 1,
+      "conceptId": 2
     },
     {
-      "type": "question",
-      "number": 4,
+      "type": "bundle",
+      "id": 3,
       "title": "STEP2 교과서 문제로 개념 체크 STEP2 교과서 문제로 개념 체크",
       "questCount": 15,
       "elapsedTime": 900000,
       "progress": 1.0,
-      "completedCount": 0
+      "completedCount": 0,
+      "conceptId": 1
     },
     {
-      "type": "question",
-      "number": 5,
-      "title": "STEP3 교과서 문제로 개념 체크  STEP2 교과서 문제로 개념 체크 STEP2 교과서 문제로 개념 체크",
+      "type": "bundle",
+      "id": 4,
+      "title": "STEP3 교과서 문제로 개념 체크",
       "questCount": 15,
       "elapsedTime": 900000,
       "progress": 0.9,
-      "completedCount": 0
+      "completedCount": 0,
+      "conceptId": 2
     }
   ]
 }
