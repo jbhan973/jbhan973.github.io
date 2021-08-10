@@ -1,0 +1,191 @@
+{
+  "type": "Book",
+  "id": 1000,
+  "name": "체크체크 수학 1-1",
+  "image": "assets/images/book_cover_1000.jpeg",
+  "progress": 0.9,
+  "subject": "수학",
+  "grade": "중1",
+  "desc": "체크체크 수학 1-1",
+  "sections": [
+    {
+      "type": "Sections",
+      "number": 1,
+      "name": "소인수분해",
+      "subjects": [
+        {
+          "type": "Subject",
+          "number": 1,
+          "name": "소수와 합성수",
+          "totalCount": 10,
+          "progress": 1.0,
+          "elapsedTime": 14400000
+        },
+        {
+          "type": "Subject",
+          "number": 2,
+          "name": "소인수분해",
+          "totalCount": 10,
+          "progress": 1.0,
+          "elapsedTime": 8640000
+        },
+        {
+          "type": "Subject",
+          "number": 3,
+          "name": "최대공약수",
+          "totalCount": 10,
+          "progress": 0.5,
+          "elapsedTime": 18720000
+        },
+        {
+          "type": "Subject",
+          "number": 4,
+          "name": "최소공배수",
+          "totalCount": 10,
+          "progress": 0.3,
+          "elapsedTime": 17280000
+        },
+        {
+          "type": "Subject",
+          "number": 5,
+          "name": "최대공약수와 최소공배수의 활용",
+          "totalCount": 10,
+          "progress": 0.9,
+          "elapsedTime": 86400000
+        }
+      ]
+    },
+    {
+      "type": "Sections",
+      "number": 2,
+      "name": "정수와 유리수",
+      "subjects": [
+        {
+          "type": "Subject",
+          "number": 1,
+          "name": "정수와 유리수",
+          "totalCount": 10,
+          "progress": 1.0,
+          "elapsedTime": 14400000
+        },
+        {
+          "type": "Subject",
+          "number": 2,
+          "name": "정수와 유리수의 덧셈과 뺄셈",
+          "totalCount": 10,
+          "progress": 1.0,
+          "elapsedTime": 8640000
+        },
+        {
+          "type": "Subject",
+          "number": 3,
+          "name": "정수와 유리수의 곱셈",
+          "totalCount": 10,
+          "progress": 0.5,
+          "elapsedTime": 18720000
+        },
+        {
+          "type": "Subject",
+          "number": 4,
+          "name": "정수와 유리수의 나눗셈",
+          "totalCount": 10,
+          "progress": 0.3,
+          "elapsedTime": 17280000
+        }
+      ]
+    },
+    {
+      "type": "Sections",
+      "number": 3,
+      "name": "문자의 사용과 식의 계산",
+      "subjects": [
+        {
+          "type": "Subject",
+          "number": 1,
+          "name": "문자의 사용과 식의 값",
+          "totalCount": 10,
+          "progress": 1.0,
+          "elapsedTime": 14400000
+        },
+        {
+          "type": "Subject",
+          "number": 2,
+          "name": "일차식의 계산(1)",
+          "totalCount": 10,
+          "progress": 1.0,
+          "elapsedTime": 8640000
+        },
+        {
+          "type": "Subject",
+          "number": 3,
+          "name": "일차식의 계산(2)",
+          "totalCount": 10,
+          "progress": 0.5,
+          "elapsedTime": 18720000
+        }
+      ]
+    },
+    {
+      "type": "Sections",
+      "number": 4,
+      "name": "일차방정식",
+      "subjects": [
+        {
+          "type": "Subject",
+          "number": 1,
+          "name": "방정식과 항등식",
+          "totalCount": 10,
+          "progress": 0.0,
+          "elapsedTime": 0
+        },
+        {
+          "type": "Subject",
+          "number": 2,
+          "name": "일차방정식",
+          "totalCount": 10,
+          "progress": 0.0,
+          "elapsedTime": 0
+        },
+        {
+          "type": "Subject",
+          "number": 3,
+          "name": "일차방정식의 활",
+          "totalCount": 10,
+          "progress": 0.0,
+          "elapsedTime": 0
+        }
+      ]
+    },
+    {
+      "type": "Sections",
+      "number": 5,
+      "name": "좌표평면과 그래프",
+      "subjects": [
+        {
+          "type": "Subject",
+          "number": 1,
+          "name": "순서쌍과 좌표, 그래프",
+          "totalCount": 10,
+          "progress": 0.0,
+          "elapsedTime": 0
+        },
+        {
+          "type": "Subject",
+          "number": 2,
+          "name": "정비례",
+          "totalCount": 10,
+          "progress": 0.0,
+          "elapsedTime": 0
+        },
+        {
+          "type": "Subject",
+          "number": 3,
+          "name": "반비례",
+          "totalCount": 10,
+          "progress": 0.0,
+          "elapsedTime": 0
+        }
+      ]
+    }
+  ]
+}
