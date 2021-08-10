@@ -1,0 +1,11 @@
+{
+  "type": "Book",
+  "id": 1011,
+  "parentId": 1000,
+  "name": "체크체크 수학 1-1\n기출 문제 모음",
+  "image": "assets/images/book_cover_1000.jpeg",
+  "progress": 0.0,
+  "subject": "수학",
+  "grade": "중1",
+  "desc": "교재에 담긴 기출 문제를 따로 모아 재구성하였습니다."
+}

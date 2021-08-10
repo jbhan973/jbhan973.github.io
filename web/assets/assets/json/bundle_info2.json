@@ -21,27 +21,27 @@
       "title": "거듭제곱",
       "questCount": 6,
       "elapsedTime": 900000,
-      "progress": 0.0,
-      "completedCount": 1,
+      "progress": 0.5,
+      "completedCount": 0,
       "conceptId": 2
     },
     {
       "type": "bundle",
       "id": 3,
-      "title": "STEP2 교과서 문제로 개념 체크 STEP2 교과서 문제로 개념 체크",
+      "title": "교과서 문제로 개념 체크",
       "questCount": 15,
       "elapsedTime": 900000,
-      "progress": 1.0,
+      "progress": 0.0,
       "completedCount": 0,
       "conceptId": 1
     },
     {
       "type": "bundle",
       "id": 4,
-      "title": "STEP3 교과서 문제로 개념 체크",
+      "title": "교과서 문제로 개념 체크",
       "questCount": 15,
       "elapsedTime": 900000,
-      "progress": 0.9,
+      "progress": 0.0,
       "completedCount": 0,
       "conceptId": 2
     }

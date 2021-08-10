@@ -10,7 +10,7 @@
       "meta": {
         "questNum": 1,
         "xCount": 1,
-        "difficultyLevel": 1,
+        "difficultyLevel": 5,
         "answerCount": 100,
         "correctRate": 10.0
       },
@@ -28,7 +28,7 @@
       "meta": {
         "questNum": 2,
         "xCount": 2,
-        "difficultyLevel": 2,
+        "difficultyLevel": 4,
         "answerCount": 12000,
         "correctRate": 70.0
       },
@@ -53,7 +53,7 @@
       "meta": {
         "questNum": 3,
         "xCount": 2,
-        "difficultyLevel": 2,
+        "difficultyLevel": 3,
         "answerCount": 2000,
         "correctRate": 80.0
       },
@@ -102,7 +102,7 @@
       "meta": {
         "questNum": 5,
         "xCount": 2,
-        "difficultyLevel": 2,
+        "difficultyLevel": 1,
         "answerCount": 12000,
         "correctRate": 70.0
       },
