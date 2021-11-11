@@ -12,7 +12,7 @@
       "questCount": 4,
       "elapsedTime": 600000,
       "progress": 1.0,
-      "completedCount": 0,
+      "completedCount": 1,
       "conceptId": 1
     },
     {
@@ -33,7 +33,7 @@
       "elapsedTime": 900000,
       "progress": 0.0,
       "completedCount": 0,
-      "conceptId": 1
+      "conceptId": 3
     },
     {
       "type": "bundle",
@@ -43,7 +43,7 @@
       "elapsedTime": 900000,
       "progress": 0.0,
       "completedCount": 0,
-      "conceptId": 2
+      "conceptId": 4
     }
   ]
 }

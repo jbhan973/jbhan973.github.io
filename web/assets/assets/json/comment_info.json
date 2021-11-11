@@ -6,7 +6,7 @@
       "schoolName": "화덕중학교",
       "grade": 3,
       "elapsedTime": 60000,
-      "content": "출석 체크요!"
+      "content": "안녕하세요. 오늘부터 챌린지 시작합니다. 많이 응원해 주세요!"
     },
     {
       "name": "Jo B",
@@ -14,7 +14,7 @@
       "schoolName": "여수중학교",
       "grade": 1,
       "elapsedTime": 120000,
-      "content": "정수와 유리수에서 3번 문제 모르겠네요."
+      "content": "저 오늘 챌린지 완료 인증합니다 ㅎㅎ"
     },
     {
       "name": "Jo B",
@@ -22,7 +22,7 @@
       "schoolName": "여수중학교",
       "grade": 1,
       "elapsedTime": 10000,
-      "content": "밥먹고 합시다!"
+      "content": "출첵~! 오늘도 파이팅"
     },
     {
       "name": "Jo B",
@@ -30,7 +30,8 @@
       "schoolName": "여수중학교",
       "grade": 1,
       "elapsedTime": 1200000,
-      "content": "거지왕자인가"
+      "contentImage": "assets/images/comment_question04.png",
+      "content": "이 문제 해설해 주실 수 있는 분 계신가요? 전 아무리 봐도 이해가 안 돼요."
     },
     {
       "name": "Jo B",
@@ -38,7 +39,7 @@
       "schoolName": "여수중학교",
       "grade": 1,
       "elapsedTime": 200000,
-      "content": "근데 낙사가 없으니까 페르시아 하는 맛이 안 난다고 하던 사람도 꽤 많던 아이러니함이...ㅋㅋㅋㅋㅋ"
+      "content": "오늘은 날씨가 좋네요. 좋은 날씨에 집에서 공부합니다. 행복합니다."
     },
     {
       "name": "Jo B",
@@ -46,7 +47,7 @@
       "schoolName": "여수중학교",
       "grade": 1,
       "elapsedTime": 1200000,
-      "content": "그 플삼이랑 삼돌이로 나온 그건가! 나름 잼게했는데"
+      "content": "머냐 ㅋㅋㅋ 챌린지 달성 10% 했는데, 종료일 3일 남았어. 챌린지 달성한 사람들 ㅇㅈ"
     },
     {
       "name": "Jo B",
@@ -54,7 +55,7 @@
       "schoolName": "여수중학교",
       "grade": 1,
       "elapsedTime": 1200000,
-      "content": "최신기기로도 할수있고요."
+      "content": "솔찍히 수학 너무 어렵다. 수학 공부 왜 해야 하는지 모르겠다."
     },
     {
       "name": "Jo B",
@@ -62,7 +63,7 @@
       "schoolName": "여수중학교",
       "grade": 1,
       "elapsedTime": 1200000,
-      "content": "FORWARD 세일 때 끼워 사서 얼마에 샀지 보니 630원에 샀네요.\nFORWARD가 할인 참 좋았죠."
+      "content": "챌린지 10일차 40% 달성! "
     },
     {
       "name": "Jo B",
@@ -70,7 +71,7 @@
       "schoolName": "여수중학교",
       "grade": 1,
       "elapsedTime": 1200000,
-      "content": "세월을 비교적 덜타는 렌더링 방식이라 비주얼도 볼만하고\n낙사 같은 스트레스가 없어서 힐링하며 스토리 쭉 밀기 좋은 게임입니다."
+      "content": "우리 학교에서 챌린지 달성한 사람 50명 뭐냐 ㅋㅋ 나만 못한 거야?"
     },
     {
       "name": "Jo B",
@@ -78,7 +79,7 @@
       "schoolName": "여수중학교",
       "grade": 1,
       "elapsedTime": 1200000,
-      "content": "이 앞전작들은 플스2 시기에 나와서 다이렉트 인풋이 적용되는데 이 작품은 엑스박스 360시기에 나와서 x input 적용입니다. \n게임 패드 플레이하는데 큰 지장은 없을겁니다."
+      "content": "당신은 문제 풀기 위해 태어난 사람. 당신의 삶 속에서 문제를 풀고 있지요."
     }
   ]
 }

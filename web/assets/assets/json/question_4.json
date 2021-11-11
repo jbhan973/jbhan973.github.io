@@ -27,7 +27,8 @@
         ]
       },
       "commentary": {
-        "commentary": "assets/mvp_quest/b04_q01_c01.jpg"
+        "commentary": "assets/mvp_quest/b04_q01_c01.jpg",
+        "video": "assets/video/question.mp4"
       }
     },
     {
@@ -51,7 +52,8 @@
         ]
       },
       "commentary": {
-        "commentary": "assets/mvp_quest/b04_q02_c02.jpg"
+        "commentary": "assets/mvp_quest/b04_q02_c02.jpg",
+        "video": "assets/video/question.mp4"
       }
     },
     {
@@ -69,7 +71,8 @@
         "correctAnswerText": "1, 2, 3, 4, 6, 12"
       },
       "commentary": {
-        "commentary": "assets/mvp_quest/b04_q03_c03.jpg"
+        "commentary": "assets/mvp_quest/b04_q03_c03.jpg",
+        "video": "assets/video/question.mp4"
       }
     },
     {
@@ -93,7 +96,8 @@
         ]
       },
       "commentary": {
-        "commentary": "assets/mvp_quest/b04_q04_c04.jpg"
+        "commentary": "assets/mvp_quest/b04_q04_c04.jpg",
+        "video": "assets/video/question.mp4"
       }
     }
   ]

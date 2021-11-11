@@ -27,7 +27,8 @@
         ]
       },
       "commentary": {
-        "commentary": "assets/mvp_quest/b03_q01_c01.jpg"
+        "commentary": "assets/mvp_quest/b03_q01_c01.jpg",
+        "video": "assets/video/question.mp4"
       }
     },
     {
@@ -51,7 +52,8 @@
         ]
       },
       "commentary": {
-        "commentary": "assets/mvp_quest/b03_q02_c02.jpg"
+        "commentary": "assets/mvp_quest/b03_q02_c02.jpg",
+        "video": "assets/video/question.mp4"
       }
     },
     {
@@ -75,7 +77,8 @@
         ]
       },
       "commentary": {
-        "commentary": "assets/mvp_quest/b03_q03_c03.jpg"
+        "commentary": "assets/mvp_quest/b03_q03_c03.jpg",
+        "video": "assets/video/question.mp4"
       }
     },
     {
@@ -99,7 +102,8 @@
         ]
       },
       "commentary": {
-        "commentary": "assets/mvp_quest/b03_q04_c04.jpg"
+        "commentary": "assets/mvp_quest/b03_q04_c04.jpg",
+        "video": "assets/video/question.mp4"
       }
     }
   ]

@@ -4,8 +4,8 @@
     "id": 1,
     "pages": [
       {
-        "type": "image",
-        "url": "assets/mvp_quest/b01_concept01.jpg"
+        "type": "pdf",
+        "url": "assets/mvp_quest/b01_concept01.pdf"
       }
     ]
   },
@@ -14,8 +14,28 @@
     "id": 2,
     "pages": [
       {
-        "type": "image",
-        "url": "assets/mvp_quest/b02_concept01.jpg"
+        "type": "pdf",
+        "url": "assets/mvp_quest/b02_concept02_bold.pdf"
+      }
+    ]
+  },
+  "3": {
+    "type": "concept",
+    "id": 3,
+    "pages": [
+      {
+        "type": "pdf",
+        "url": "assets/mvp_quest/b02_concept02_thin.pdf"
+      }
+    ]
+  },
+  "4": {
+    "type": "concept",
+    "id": 4,
+    "pages": [
+      {
+        "type": "pdf",
+        "url": "assets/mvp_quest/b02_concept02_original.pdf"
       }
     ]
   }
